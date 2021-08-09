@@ -1,7 +1,7 @@
 # EasyNuker
 How to use EasyNuker
 
-First of, you need to copy your token in right place, located at line 8, otherwise it will start my own bot
+First of, you need to copy your token in right place, located at line 8, otherwise it will not work 
 
 Second of all, you can but you don't have to do it necessarily, you can change name of the channels that will be created by changing names on the 10th line.
 
